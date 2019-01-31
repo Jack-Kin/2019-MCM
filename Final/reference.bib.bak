@@ -1,0 +1,103 @@
+% Encoding: UTF-8
+﻿@article{65,
+  title={{Simulation of Evacuation Processes Using a Bionics-Inspired Cellular Automaton Model for Pedestrian Dynamics}},
+  author={Ansgar Kirchner and Andreas Schadschneider},
+  journal={Physica A: statistical mechanics and its applications},
+  volume={312},
+  number={1-2},
+  pages={260--276},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@article{103,
+  title={{Lattice-gas Simulation of Escaping Pedestrian Flow in Corridor}},
+  author={Qiu Bing, Huili Tan, Lingjiang Kong and Muren Liu},
+  journal={Chinese Physics},
+  volume={13},
+  number={7},
+  pages={990},
+  year={2004},
+  publisher={IOP Publishing}
+}
+
+@article{148,
+  title={{Reserve Capacity and Exit Choosing in Pedestrian Evacuation Dynamics}},
+  author={Hui Zhao and Ziyou Gao},
+  journal={Journal of Physics A: Mathematical and Theoretical},
+  volume={43},
+  number={10},
+  pages={105001},
+  year={2010},
+  publisher={IOP Publishing}
+}
+
+@article{70,
+  title={{Pedestrian Traffic: on the Quickest Path}},
+  author={Tobias Kretz},
+  journal={Journal of Statistical Mechanics: Theory and Experiment},
+  volume={2009},
+  number={03},
+  pages={P03012},
+  year={2009},
+  publisher={IOP Publishing}
+}
+
+@article{32,
+  title={{Logit-based Exit Choice Model of Evacuation in Rooms with Internal Obstacles and Multiple Exits}},
+  author={Renyong Guo and Haijun Huang},
+  journal={Chinese physics B},
+  volume={19},
+  number={3},
+  pages={030501},
+  year={2010},
+  publisher={IOP Publishing}
+}
+
+@article{60,
+  title={{Static Floor Field and Exit Choice for Pedestrian Evacuation in Rooms with Internal Obstacles and Multiple Exits}},
+  author={Haijun Huang and Renyong Guo},
+  journal={Physical Review E},
+  volume={78},
+  number={2},
+  pages={021131},
+  year={2008},
+  publisher={APS}
+}
+
+@inproceedings{140,
+  title={{Simulation of Pedestrian Evacuation with Affected Visual Field and Absence of Evacuation Signs}},
+  author={Hao Yue, Hongzhi Guan, Chunfu Shao, and Yinhong Liu},
+  booktitle={Natural Computation (ICNC), 2010 Sixth International Conference on},
+  volume={8},
+  pages={4286--4290},
+  year={2010},
+  organization={IEEE}
+}
+
+@techreport{26,
+  title={{Pedestrian Planning and Design}},
+  author={Fruin John J.},
+  year={1971}
+}
+
+@inproceedings{97,
+  title={{A Study of Simulation Model for Pedestrian Movement with Evacuation and Queuing}},
+  author={Okazaki Shigeyuki and Matsushita Satoshi},
+  booktitle={International Conference on Engineering for Crowd Safety},
+  volume={271},
+  year={1993}
+}
+
+@book{92,
+  title={{Theory of Self-Reproducing Automata}},
+  author={Von Neumann John and Burks Arthur Walter},
+  year={1996},
+  publisher={University of Illinois Press Urbana}
+}
+
+@Misc{diabled,
+  howpublished = {\url{https://www.cdc.gov/flu/consumer/prevention.htm}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

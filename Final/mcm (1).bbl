@@ -1,0 +1,80 @@
+\begin{thebibliography}{10}
+
+\bibitem{97}
+Okazaki Shigeyuki and Matsushita Satoshi.
+\newblock {A Study of Simulation Model for Pedestrian Movement with Evacuation
+  and Queuing}.
+\newblock In {\em International Conference on Engineering for Crowd Safety},
+  volume 271, 1993.
+
+\bibitem{92}
+Von~Neumann John and Burks~Arthur Walter.
+\newblock {\em {Theory of Self-Reproducing Automata}}.
+\newblock University of Illinois Press Urbana, 1996.
+
+\bibitem{32}
+Renyong Guo and Haijun Huang.
+\newblock {Logit-based Exit Choice Model of Evacuation in Rooms with Internal
+  Obstacles and Multiple Exits}.
+\newblock {\em Chinese physics B}, 19(3):030501, 2010.
+
+\bibitem{60}
+Haijun Huang and Renyong Guo.
+\newblock {Static Floor Field and Exit Choice for Pedestrian Evacuation in
+  Rooms with Internal Obstacles and Multiple Exits}.
+\newblock {\em Physical Review E}, 78(2):021131, 2008.
+
+\bibitem{65}
+Ansgar Kirchner and Andreas Schadschneider.
+\newblock {Simulation of Evacuation Processes Using a Bionics-Inspired Cellular
+  Automaton Model for Pedestrian Dynamics}.
+\newblock {\em Physica A: statistical mechanics and its applications},
+  312(1-2):260--276, 2002.
+
+\bibitem{103}
+Lingjiang~Kong Qiu~Bing, Huili~Tan and Muren Liu.
+\newblock {Lattice-gas Simulation of Escaping Pedestrian Flow in Corridor}.
+\newblock {\em Chinese Physics}, 13(7):990, 2004.
+
+\bibitem{148}
+Hui Zhao and Ziyou Gao.
+\newblock {Reserve Capacity and Exit Choosing in Pedestrian Evacuation
+  Dynamics}.
+\newblock {\em Journal of Physics A: Mathematical and Theoretical},
+  43(10):105001, 2010.
+
+\bibitem{70}
+Tobias Kretz.
+\newblock {Pedestrian Traffic: on the Quickest Path}.
+\newblock {\em Journal of Statistical Mechanics: Theory and Experiment},
+  2009(03):P03012, 2009.
+
+\bibitem{gender1}
+Louvre~Press Kit.
+\newblock “pyramid” project launch – the musée du louvre is improving
+  visitor reception (2014-2016).”.
+\newblock
+  \url{www.louvre.fr/sites/default/files/dp_pyramide%2028102014_en.pdf.}, 2014.
+
+\bibitem{gender2}
+LF~Henderson.
+\newblock The statistics of crowd fluids.
+\newblock {\em nature}, 229(5284):381, 1971.
+
+\bibitem{gender3}
+John~L Bryan.
+\newblock Behavioral response to fire and smoke.
+\newblock {\em The Society of Fire Protection Engineers (SFPE) handbook of Fire
+  Protection Engineering edited by Philip J. DiNenno, Dougal Drysdale, Craig L.
+  Beyler}, pages 315--341, 2002.
+
+\bibitem{gender4}
+CM~Zhao, Siu~Ming Lo, SP~Zhang, and M~Liu.
+\newblock A post-fire survey on the pre-evacuation human behavior.
+\newblock {\em Fire Technology}, 45(1):71, 2009.
+
+\bibitem{disabled}
+Centers for desease control and prevention.
+\newblock \url{https://www.cdc.gov/flu/consumer/prevention.htm}, 2015.
+
+\end{thebibliography}

@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Assuptions}{2}{section.2}
+\contentsline {section}{\numberline {3}Abbreviations and Definitions}{3}{section.3}
+\contentsline {section}{\numberline {4}Characterization of the Evacuation Model}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}Choice of The Model}{4}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Basic Settings}{4}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Map Deriving}{5}{subsection.4.3}
+\contentsline {section}{\numberline {5}Derivation of Floor Field Model}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Hierarchical A* Algorithm}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Basic FF model}{8}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Directional Flow FF Model}{9}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Directional Visual Field FF Model}{9}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Remainder Directional Visual Field}{10}{subsection.5.5}
+\contentsline {section}{\numberline {6}Simulation of Extended FF Model}{11}{section.6}
+\contentsline {subsection}{\numberline {6.1}Evacuation Scene and Parameter Setting}{11}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Evacuation Space-Time Figure}{11}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Sensitivity Analysis of Parameters}{12}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Simulation of Various Emergencies}{13}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Individual Heterogeneity of a Population}{13}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Gender Differences}{13}{subsubsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.2}Identity Differences}{15}{subsubsection.6.5.2}
+\contentsline {section}{\numberline {7}Tasks and Actions}{15}{section.7}
+\contentsline {subsection}{\numberline {7.1}Generalization of the Evacuation Model}{15}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Policy}{15}{subsection.7.2}
+\contentsline {section}{\numberline {8}Strengths and Weaknesses}{16}{section.8}
+\contentsline {subsection}{\numberline {8.1}Strengths}{16}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Weaknesses}{16}{subsection.8.2}
+\contentsline {section}{\numberline {9}Conclusions}{16}{section.9}
+\contentsline {section}{References}{16}{section.9}
